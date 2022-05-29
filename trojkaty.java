@@ -59,7 +59,7 @@ class Trojkaty {
     public static void pomoc(){
         System.out.println("Acme INC. (C) 2022");
         System.out.println("Program do rozpoznawania rodzaju trójkąta");
-        System.out.println("Uruchom z trzema argumentami liczbowymi - długość boków trójkąta");
+        System.out.println("Uruchom z trzema argumentami liczbowymi - długościami boków trójkąta");
     }
     /** Glowna funkcja */
     public static void main(String... args) {
