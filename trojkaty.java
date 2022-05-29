@@ -13,7 +13,7 @@ class Trojkaty {
          if (a == b && b == c && a == c) {
              System.out.println("Trójkąt równoboczny"); 
          }
-         // TODO: tutaj trzeba bedzie dopisac inne przypadki
+        
     }
     /** Wyświetla ekran pomocy */
     public static void pomoc(){
